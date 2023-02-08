@@ -1,0 +1,58 @@
+/* Body and general elements */
+body {
+    background-color: #1c1c1c;
+    color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    }
+    
+    /* Headings */
+    h1, h2, h3, h4, h5, h6 {
+    color: #f2f2f2;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    }
+    
+    /* Buttons */
+    button, input[type="submit"] {
+    background-color: #2ecc71;
+    color: #f2f2f2;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    }
+    
+    button:hover, input[type="submit"]:hover {
+    background-color: #27ae60;
+    }
+    
+    /* Panels */
+    .panel {
+    background-color: #f2f2f2;
+    color: #1c1c1c;
+    padding: 20px;
+    border-radius: 5px;
+    }
+    
+    /* Titles */
+    .title {
+    color: #2ecc71;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 36px;
+    margin-bottom: 20px;
+    }
+    
+    /*Links*/
+    a {
+    color: #2ecc71;
+    text-decoration: none;
+    }
+    
+    a:hover {
+    color: #27ae60;
+    text-decoration: underline;
+    }
+    
+    /* Note: This is just an example and you may need to adjust and add more CSS rules to fit your specific website needs. */

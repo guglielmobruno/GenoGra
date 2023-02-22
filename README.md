@@ -5,7 +5,7 @@ How to use:
 - Download and install Node.js and npm following the instructions at https://nodejs.org/en/download/
 - Clone this repository, from terminal
 ```
-git clone https://github.com/guglielmobruno/GenoGra/edit/master/README.md
+git clone --recurse-submodules https://github.com/guglielmobruno/GenoGra/edit/master/README.md
 ```
 Then,
 ```
